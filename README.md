@@ -5,3 +5,7 @@ A text editor that runs in the browser as a single-page application that meets t
 # Link
 
 [Heroku Link](https://fathomless-refuge-55776.herokuapp.com/)
+
+# Screenshot
+
+![JATE screenshot](./images/Screenshot%20Jate.png)
